@@ -1,0 +1,8 @@
+Diccionario de comandos en Git
+
+git init = Iniciar git
+git add = Ver el estado de las ramas y los cambios
+git comit -m "abc dfg hij" = Agregar comentarios
+git branch "agregar_una_copia" = Agregar una copia
+git branch = Ver las ramas
+git checkout = Cambiar de rama
